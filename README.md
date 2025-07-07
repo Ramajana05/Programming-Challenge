@@ -5,7 +5,7 @@
 I was following the principles of separation of concerns, for a clean architecture.
 
 this project is divided into clear layers:
--	Ui components - (screens and widgets )
+-	UI components - (screens and widgets )
 - Design layer - (style, color and fonts)
 - Logic layer - (primelogic)
 - Data layer - (randomprimeapi and timetilllastprime)
