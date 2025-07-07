@@ -5,10 +5,10 @@
 I was following the principles of separation of concerns, for a clean architecture.
 
 this project is divided into clear layers:
--	ui components - (screens and widgets )
-- design layer - (style, color and fonts)
-- logic layer - (primelogic)
-- data layer - (randomprimeapi and timetilllastprime)
+-	Ui components - (screens and widgets )
+- Design layer - (style, color and fonts)
+- Logic layer - (primelogic)
+- Data layer - (randomprimeapi and timetilllastprime)
 
 this approach makes the app easier to maintain, test and scale.
 -> best practise
